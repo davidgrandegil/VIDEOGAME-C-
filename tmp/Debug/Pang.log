@@ -1,0 +1,46 @@
+﻿Compilación iniciada a las 02/01/2017 23:56:41.
+     1>Proyecto "C:\Users\azu_z\Dropbox\Universidad\Curso 2015-16\SEXTO CUATRIMESTRE\INFORMATICA\Trabajo\CD\Are_you_a_good_shooter_COMPILABLE\Pang.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Ilib /Isrc /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"tmp\Debug\\" /Fd"tmp\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt src\Bonus.cpp src\Disparo.cpp src\Enemigo.cpp src\Interaccion.cpp src\Laberinto.cpp src\ListaBonus.cpp src\ListaDisparos.cpp src\ListaEnemigos.cpp src\ListaParedes.cpp src\Mundo.cpp src\Munieco.cpp src\OpenGL.cpp src\Pang.cpp src\Pared.cpp src\Protagonista.cpp src\Suelo.cpp src\Vector2D.cpp
+         Vector2D.cpp
+         Suelo.cpp
+         Protagonista.cpp
+         Pared.cpp
+         Pang.cpp
+         OpenGL.cpp
+         Munieco.cpp
+         Mundo.cpp
+         ListaParedes.cpp
+         ListaEnemigos.cpp
+         ListaDisparos.cpp
+         ListaBonus.cpp
+         Laberinto.cpp
+         Interaccion.cpp
+         Enemigo.cpp
+         Disparo.cpp
+         Bonus.cpp
+         Generando código...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\azu_z\Dropbox\Universidad\Curso 2015-16\SEXTO CUATRIMESTRE\INFORMATICA\Trabajo\CD\Are_you_a_good_shooter_COMPILABLE\bin\Pang.exe" /INCREMENTAL /NOLOGO /LIBPATH:lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\azu_z\Dropbox\Universidad\Curso 2015-16\SEXTO CUATRIMESTRE\INFORMATICA\Trabajo\CD\Are_you_a_good_shooter_COMPILABLE\bin\Pang.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\azu_z\Dropbox\Universidad\Curso 2015-16\SEXTO CUATRIMESTRE\INFORMATICA\Trabajo\CD\Are_you_a_good_shooter_COMPILABLE\bin\Pang.lib" /MACHINE:X86 tmp\Debug\Bonus.obj
+         tmp\Debug\Disparo.obj
+         tmp\Debug\Enemigo.obj
+         tmp\Debug\Interaccion.obj
+         tmp\Debug\Laberinto.obj
+         tmp\Debug\ListaBonus.obj
+         tmp\Debug\ListaDisparos.obj
+         tmp\Debug\ListaEnemigos.obj
+         tmp\Debug\ListaParedes.obj
+         tmp\Debug\Mundo.obj
+         tmp\Debug\Munieco.obj
+         tmp\Debug\OpenGL.obj
+         tmp\Debug\Pang.obj
+         tmp\Debug\Pared.obj
+         tmp\Debug\Protagonista.obj
+         tmp\Debug\Suelo.obj
+         tmp\Debug\Vector2D.obj
+         Pang.vcxproj -> C:\Users\azu_z\Dropbox\Universidad\Curso 2015-16\SEXTO CUATRIMESTRE\INFORMATICA\Trabajo\CD\Are_you_a_good_shooter_COMPILABLE\bin\Pang.exe
+     1>Compilación del proyecto terminada "C:\Users\azu_z\Dropbox\Universidad\Curso 2015-16\SEXTO CUATRIMESTRE\INFORMATICA\Trabajo\CD\Are_you_a_good_shooter_COMPILABLE\Pang.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:09.44
